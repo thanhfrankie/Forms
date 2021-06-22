@@ -10,10 +10,10 @@ body {
 	padding: 0;
 	background-image: url(../img/galaxy.jpg);
 }
-.wrapper {sadsads
+.wrapper {
 	width: 80%;
 	margin: 0 auto;
-	padding: 1em; fasdfasf
+	padding: 1em; 
 	display: flex;
 	flex-flow: row nowrap;
 	background-color: #efb106;
